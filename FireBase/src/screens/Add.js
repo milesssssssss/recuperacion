@@ -133,7 +133,7 @@ const styles = StyleSheet.create({
         textAlign: 'center',
     },
     input: {
-        height: 40,
+        height: 30,
         borderColor: '#ccc',
         borderWidth: 1,
         borderRadius: 4,
@@ -147,9 +147,9 @@ const styles = StyleSheet.create({
         width: '100%'
     },
     imagePicker: {
-        backgroundColor: '#0288d1',
-        padding: 10,
-        borderRadius: 5,
+        backgroundColor: '#0288d2',
+        padding: 9,
+        borderRadius: 4,
         alignItems: 'center',
         marginBottom: 20,
         width: '100%',
@@ -177,7 +177,7 @@ const styles = StyleSheet.create({
         textAlign: 'center',
     },
     label: {
-        fontSize: 16,
+        fontSize: 20,
         marginBottom: 8,
         color: '#333',
     },
